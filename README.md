@@ -11,12 +11,18 @@ MANUAL DE USUARIO DE LA APP
 
 - Cuando se inicie el programa se mostrara una serie de opciones enumeradas del 0 al 5. Cada una de estas 6 opciones tiene una funcion especifica.
 
-Opcion 1: Mostrara las hierbas
-Opcion 2: Mostrara los arbustos
-Opcion 3: Mostrara los helechos
-Opcion 4: Mostrara las palmeras
-Opcion 5: Agregara una planta
-Opcion 0: Salir del programa
+- Opcion 1: Mostrara las hierbas
+
+- Opcion 2: Mostrara los arbustos
+
+- Opcion 3: Mostrara los helechos
+
+- Opcion 4: Mostrara las palmeras
+
+- Opcion 5: Agregara una planta
+
+- Opcion 0: Salir del programa
+
 
 Para interactuar con estas opciones simplemente presione la tecla del numero que quiera y presione enter.
 
