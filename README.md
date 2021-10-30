@@ -9,7 +9,7 @@ Esto presenta una serie de beneficios tales como la precocidad en el crecimiento
 
 MANUAL DE USUARIO DE LA APP
 
-- Cuando se inicie el programa se mostrara una serie de opciones enumeradas del 0 al 5. Cada una de estas 6 opciones tiene una funcion especifica.
+Cuando se inicie el programa se mostrara una serie de opciones enumeradas del 0 al 5. Cada una de estas 6 opciones tiene una funcion especifica:
 
 - Opcion 1: Mostrara las hierbas
 
