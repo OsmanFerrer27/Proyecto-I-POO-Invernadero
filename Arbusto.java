@@ -2,10 +2,6 @@ package com.proyecto1.package1;
 
 public class Arbusto extends PlantaGeneral {
 	
-	public Arbusto() {
-		super();
-	}
-	
 	public Arbusto(String hoja, double altura, String nombre, String color, int cantidad) {
 		super(hoja, altura, nombre, color, cantidad);
 	}
