@@ -2,10 +2,6 @@ package com.proyecto1.package1;
 
 public class Palmera extends PlantaGeneral {
 	
-	public Palmera() {
-		super();
-	}
-	
 	public Palmera(String hoja, double altura, String nombre, String color, int cantidad) {
 		super(hoja, altura, nombre, color, cantidad);
 	}
