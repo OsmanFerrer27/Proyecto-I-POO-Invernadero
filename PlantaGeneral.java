@@ -13,7 +13,6 @@ public abstract class PlantaGeneral implements Utilidad {
 	
 	Scanner scan = new Scanner(System.in);
 	
-	public PlantaGeneral() {}
 	
 	public PlantaGeneral (String hoja, double altura, String nombre, String color, int cantidad) {
 		this.hoja = hoja;
